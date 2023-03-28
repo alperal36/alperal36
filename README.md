@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alalper513636@gmail.com**
 
-- ⚡ I think I am energetic and full of life **I'm funny**
+- ⚡  **I think I am energetic and full of life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
