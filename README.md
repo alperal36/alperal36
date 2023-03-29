@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif)
+![MasterHead](https://media.tenor.com/j1361C75IdkAAAAd/hacker.gif)
 <h1 align="center">Hi 👋, I'm Alper Al</h1>
 <h3 align="center">Cyber Security and Developer</h3>
 <img align="right"  alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
